@@ -8,7 +8,7 @@
  Frog models were added to make it feel like leap frog
  
  # -Game design tools-
- *Goals: See which player can get the most points, or race to the end to see who get there first.
+ *Goals: See which player can get the most points.
  
  *Challenge: Don't fall off the platforms or you have to start over and make your way back to where you were. No air control, once you jump you are committed so you have to make sure you like up your jumps before hand.
 
